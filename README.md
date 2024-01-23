@@ -11,3 +11,13 @@ After your commits - you will need to push your changes
 ```
 git push -u origin main
 ```
+
+## Building and starting Live Server
+installing dependencies
+```
+npm install
+```
+starting live server
+```
+npm start
+```
